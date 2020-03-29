@@ -1,0 +1,2 @@
+# Systemes-lineaires-et-reseau-hydraulique
+On étudie la modélisation mathématique d’un réseau hydraulique. Le réseau est représenté par un graphe. Étant donné la position de la source dans le réseau et de la sortie, l’objectif est d’être capable de déterminer le débit dans chaque conduite. Une application qu’on peut alors envisager est de déterminer la position d’entrée et de sortie optimisant le réseau.
